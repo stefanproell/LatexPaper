@@ -1,7 +1,7 @@
 LatexPaper
 ==========
 
-This is a Latex Paper Template
+This is a Latex template for writing research papers.
 
 Compiling the paper
 ===================
